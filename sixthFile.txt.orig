@@ -1,0 +1,6 @@
+6th file
+<<<<<<< HEAD
+feature added in master
+=======
+newFeature added from myBranch
+>>>>>>> myBranch
