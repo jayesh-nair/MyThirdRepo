@@ -1,1 +1,2 @@
 6th file
+newFeature added from myBranch
